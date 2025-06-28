@@ -3,9 +3,13 @@
   Determinar qué controles y  mejores prácticas de cumplimiento deben implementarse para mejorar la postura de seguridad de Botium Toys.
   
   Los controles dentro de la ciberseguridad se agrupan en tres categorías principales:
+  
 1 Controles administrativos/gerenciales
+
 2 Controles técnicos
+
 3 Controles físicos/operativos
+
   Los tipos de control incluyen, entre otros:
 1. Preventivo
 2. Correctivo
