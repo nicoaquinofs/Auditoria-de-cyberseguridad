@@ -15,4 +15,5 @@
 2. Correctivo
 3. Detective
 4. Ellos disuaden
+
    Finalizacion de auditoria con informe completo a ambas partes interesadas, Alineacion correcta a normativas y leyes internacionales vigente. Solucion de problemas con soporte formato hibrido, 
